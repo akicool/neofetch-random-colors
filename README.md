@@ -2,8 +2,7 @@
 
 A Bash script that generates smooth color gradients for Neofetch's ASCII art. Perfect for adding vibrant, random color schemes to your system information display.
 
-![Example Neofetch output with generated colors](<img width="944" alt="image" src="https://github.com/user-attachments/assets/c751ed5b-32fe-498c-961e-dc94beb35154" />
-) *(optional - add screenshot later)*
+<img width="915" alt="image" src="https://github.com/user-attachments/assets/9b55503a-a773-4105-9375-07a00907ed15" />
 
 ## Features
 
