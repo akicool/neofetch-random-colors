@@ -15,6 +15,15 @@ A Bash script that generates smooth color gradients for Neofetch's ASCII art. Pe
 
 ## Installation
 
+### MacOS\UNIX
+
+1. Install neofetch:
+    - **Using Homebrew (macOS):** `brew install neofetch`
+    - **Using Nix (Linux/macOS):** `nix-env -i neofetch`
+
+2. Download the script:
+    - **Using curl:** `curl -O https://raw.githubusercontent.com/akicool/neofetch-random-colors/main/neofetch-random-colors.sh`
+
 ### Linux
 
 1. Install neofetch:
@@ -39,15 +48,6 @@ A Bash script that generates smooth color gradients for Neofetch's ASCII art. Pe
 2. Download the script:
     - **Using curl:** `curl -O https://raw.githubusercontent.com/akicool/neofetch-random-colors/main/neofetch-random-colors.sh`
     - **Using PowerShell:** `Invoke-WebRequest -Uri https://raw.githubusercontent.com/akicool/neofetch-random-colors/main/neofetch-random-colors.sh -OutFile neofetch-random-colors.sh`
-
-### Other
-
-1. Install neofetch:
-    - **Using Homebrew (macOS):** `brew install neofetch`
-    - **Using Nix (Linux/macOS):** `nix-env -i neofetch`
-
-2. Download the script:
-    - **Using curl:** `curl -O https://raw.githubusercontent.com/akicool/neofetch-random-colors/main/neofetch-random-colors.sh`
 
 ## Usage
 
