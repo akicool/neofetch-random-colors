@@ -15,13 +15,41 @@ A Bash script that generates smooth color gradients for Neofetch's ASCII art. Pe
 
 ## Installation
 
-1. Download the script:
-```bash
-curl -O https://raw.githubusercontent.com/akicool/neofetch-random-colors/main/neofetch-random-colors.sh
-```
+### Linux
 
-2. Download neofetch:
-- brew install neofetch
+1. Install neofetch:
+    - **Ubuntu/Debian:** `sudo apt-get install neofetch`
+    - **Fedora/CentOS/RHEL:** `sudo dnf install neofetch`
+    - **Arch Linux:** `sudo pacman -S neofetch`
+    - **openSUSE:** `sudo zypper install neofetch`
+    - **Other Linux distributions:** Check your package manager for neofetch
 
-3. How to use:
-- add this script in your .zshrc or .bashrc file 
+2. Download the script:
+    - **Using curl:** `curl -O https://raw.githubusercontent.com/akicool/neofetch-random-colors/main/neofetch-random-colors.sh`
+    - **Using wget:** `wget https://raw.githubusercontent.com/akicool/neofetch-random-colors/main/neofetch-random-colors.sh`
+
+### Windows
+
+1. Install neofetch:
+    - **Using Chocolatey:** `choco install neofetch`
+    - **Using Scoop:** `scoop install neofetch`
+    - **Using Winget:** `winget install neofetch`
+    - **Manual download:** Download the latest release from the [Neofetch GitHub page](https://github.com/dylanaraps/neofetch/releases)
+
+2. Download the script:
+    - **Using curl:** `curl -O https://raw.githubusercontent.com/akicool/neofetch-random-colors/main/neofetch-random-colors.sh`
+    - **Using PowerShell:** `Invoke-WebRequest -Uri https://raw.githubusercontent.com/akicool/neofetch-random-colors/main/neofetch-random-colors.sh -OutFile neofetch-random-colors.sh`
+
+### Other
+
+1. Install neofetch:
+    - **Using Homebrew (macOS):** `brew install neofetch`
+    - **Using Nix (Linux/macOS):** `nix-env -i neofetch`
+
+2. Download the script:
+    - **Using curl:** `curl -O https://raw.githubusercontent.com/akicool/neofetch-random-colors/main/neofetch-random-colors.sh`
+
+## Usage
+
+Add the following line to your shell configuration file (e.g. `~/.bashrc`, `~/.zshrc`):
+
