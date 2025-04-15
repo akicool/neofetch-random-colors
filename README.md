@@ -15,7 +15,7 @@ A Bash script that generates smooth color gradients for Neofetch's ASCII art. Pe
 
 ## Installation
 
-### MacOS\UNIX
+### MacOS \ UNIX
 
 1. Install neofetch:
     - **Using Homebrew (macOS):** `brew install neofetch`
