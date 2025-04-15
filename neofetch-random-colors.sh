@@ -46,4 +46,4 @@ random_colors() {
     echo "${colors[@]}"
 }
 
-neofetch --ascii_distro --ascii_colors $(random_colors)
+neofetch --ascii_colors $(random_colors)
