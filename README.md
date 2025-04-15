@@ -51,5 +51,5 @@ A Bash script that generates smooth color gradients for Neofetch's ASCII art. Pe
 
 ## Usage
 
-Add the following line to your shell configuration file (e.g. `~/.bashrc`, `~/.zshrc`):
+Add the following script to your shell configuration file (e.g. `~/.bashrc`, `~/.zshrc`):
 
